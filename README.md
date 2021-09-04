@@ -2,11 +2,12 @@
 This honey pot allows you to trap Ethereum hackers who want to steal your altcoins from you.
 
 ## Prerequisites
-required packages: web3 (gochain), jq, httpie
-required accounts:
+- Required packages: web3 (gochain), jq, httpie
+- Required accounts:
 	- account on infura.io in order to be able to communicate with the Ethereum blockchain
+	- account on etherscan.io in order to check the transaction status
 	- account on pushbullet if you want to receive notifications
-	- 2 "corrupted" Ethereum addresses: 1 "corrupted" and another one to receive the balance.
+	- 2 "corrupted" Ethereum addresses: 1 "corrupted" and another one to receive the ETH balance.
 
 ## How does it work?
 The script will monitor a given Ethereum address balance, the one that might be corrupted.
