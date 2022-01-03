@@ -1,5 +1,9 @@
 # Ethereum Honey Pot
 This honey pot allows you to trap Ethereum hackers who want to steal your altcoins from you.
+You love this project and want to contribute, help it grow and improve? If so, feel free to buy me a beer or a cup of coffee :)
+Tip Ethereum address: 0xEEfc18b3d422d967cc44aC50f62E03652C0Db42b
+
+Thanks a lot!
 
 ## Prerequisites
 - Required packages: web3 (gochain), jq, httpie
